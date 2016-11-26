@@ -47,20 +47,20 @@ $type-size-8                : 0.625em !default;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288 !default;
+$gray                       : #f6f6f6 !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
 $lighter-gray               : mix(#fff, $gray, 90%) !default;
 
-$body-color                 : #fff !default;
-$background-color           : #fff !default;
+$body-color                 : #000 !default;
+$background-color           : #000 !default;
 $code-background-color      : #fafafa !default;
 $code-background-color-dark : $light-gray !default;
 $text-color                 : $dark-gray !default;
-$border-color               : $lighter-gray !default;
+$border-color               : $darker-gray !default;
 
-$primary-color              : #7a8288 !default;
+$primary-color              : #e2001a !default;
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
@@ -78,6 +78,7 @@ $instagram-color            : #517fa4 !default;
 $lastfm-color               : #d51007 !default;
 $linkedin-color             : #007bb6 !default;
 $pinterest-color            : #cb2027 !default;
+$reddit-color               : #ff4500 !default;
 $rss-color                  : #fa9b39 !default;
 $soundcloud-color           : #ff3300 !default;
 $stackoverflow-color        : #fe7a15 !default;

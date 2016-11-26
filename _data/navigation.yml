@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Modding"
+    url: /modding/
+  - title: "About"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +12,51 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# Modding Sidebar
+modding:
+  - title: "Software Category"
+    children:
+      - title: "Bang Engine"
+        url: /modding/bang-engine/
+      - title: "Big Huge Engine"
+        url: /modding/big-huge-engine/
+      - title: "Ego Engine"
+        url: /modding/ego-engine/
+
+# Bang Sidebar
+bangengine:
+  - title: "Software"
+    children:
+      - title: "AoM File Converter"
+        url: /modding/bang-engine/#AoMFileConverter
+      - title: "AoM Model Plugin"
+        url: /modding/bang-engine/#AoMModelPlugin
+
+# Big Huge Sidebar
+bighugeengine:
+  - title: "Software"
+    children:
+      - title: "RoL Big Archiver"
+        url: /modding/big-huge-engine/#RoLBigArchiver
+      - title: "RoN Blender Addon"
+        url: /modding/big-huge-engine/#RoNBlenderAddon
+
+# Ego Sidebar
+egoengine:
+  - title: "Software"
+    children:
+      - title: "Ego CTF Editor"
+        url: /modding/ego-engine/#EgoCTFEditor
+      - title: "Ego Database Editor"
+        url: /modding/ego-engine/#EgoDatabaseEditor
+      - title: "Ego ERP Archiver"
+        url: /modding/ego-engine/#EgoERPArchiver
+      - title: "Ego File Converter"
+        url: /modding/ego-engine/#EgoFileConverter
+      - title: "Ego JPK Archiver"
+        url: /modding/ego-engine/#EgoJPKArchiver
+      - title: "Ego Language Editor"
+        url: /modding/ego-engine/#EgoLanguageEditor
+      - title: "Ego PSSG Editor"
+        url: /modding/ego-engine/#EgoPSSGEditor
