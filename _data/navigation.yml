@@ -60,3 +60,13 @@ egoengine:
         url: /modding/ego-engine/#EgoLanguageEditor
       - title: "Ego PSSG Editor"
         url: /modding/ego-engine/#EgoPSSGEditor
+  - title: "External Sites"
+    children:
+      - title: "Discord"
+        url: https://discord.gg/5bCjMqS
+      - title: "RaceDepartment"
+        url: http://www.racedepartment.com/
+      - title: "RallyGamer's Playground"
+        url: http://www.rallygamer.com/
+      - title: "Ego Engine Wikia"
+        url: http://ego-engine.wikia.com/wiki/Ego_Engine_Wikia
