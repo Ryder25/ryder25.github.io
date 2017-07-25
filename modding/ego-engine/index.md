@@ -31,4 +31,4 @@ Latest Version: <strong>2.0.2015.0819</strong></p>
 Latest Version: <strong>4.0.2015.0918</strong> <small>Formerly: Ryder Language Editor</small></p>
 <h3><a name="EgoPSSGEditor" href="https://ryder25.itch.io/ego-pssg-editor" target="_blank">EGO PSSG Editor</a></h3>
 <p>This tool will allow you to open and edit PSSG files for EGO engine games. These files contain lots of data, including textures.<br />
-Latest Version: <strong>10.3.2016.0322</strong> <small>Formerly: Ryder PSSG Editor</small></p>
+Latest Version: <strong>11.0.2017.0720</strong> <small>Formerly: Ryder PSSG Editor</small></p>
