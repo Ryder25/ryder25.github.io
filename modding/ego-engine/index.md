@@ -19,7 +19,7 @@ Latest Version: <strong>4.2.2016.0920</strong> <small>Formerly: Ryder CTF Editor
 Latest Version: <strong>11.0.2013.1006</strong> <small>Formerly: Ryder Database Editor</small></p>
 <h3><a name="EgoERPArchiver" href="https://ryder25.itch.io/ego-erp-archiver" target="_blank">EGO ERP Archiver</a></h3>
 <p>This program lets you export and import resources from ERP archives for EGO engine games.<br />
-Latest Version: <strong>6.0.2017.1022</strong></p>
+Latest Version: <strong>6.1.2017.1025</strong></p>
 <h3><a name="EgoFileConverter" href="https://ryder25.itch.io/ego-file-converter" target="_blank">EGO File Converter</a></h3>
 <p>This program lets you convert binary XML, Lng, and Pkg files for EGO engine games.<br />
 Latest Version: <strong>2.1.2016.1119</strong></p>
