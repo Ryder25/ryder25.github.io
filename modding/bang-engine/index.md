@@ -12,10 +12,10 @@ sidebar:
 Latest Version: <strong>Discontinued &#8212; use File Converter</strong></p>
 <h3><a name="AoMFileConverter" href="https://ryder25.itch.io/aom-file-converter" target="_blank">AoM File Converter</a></h3>
 <p>This simple application converts anim.txt, prt, mtrl, and brg files to xml for the Age of Mythology game.<br />
-Latest Version: <strong>1.0.2016.0909</strong></p>
+Latest Version: <strong>1.1.0+20190324</strong></p>
 <h3><a name="AoMModelPlugin" href="https://ryder25.itch.io/aom-model-plugin" target="_blank">AoM Model Plugin</a></h3>
 <p>A 3ds Max plugin to enable importing, exporting, and editing of 3D model files for the Age of Mythology and the Extended Edition games.<br />
-Latest Version: <strong>7.2.2016.0525</strong></p>
+Latest Version: <strong>7.3.0+20190523</strong></p>
 <h3>AoM MTRL Converter</h3>
 <p>This program converts between MTRL (material) files and xml files, and extracts MTRL files from brgs for the Age of Mythology Extended Edition game.<br />
 Latest Version: <strong>Discontinued &#8212; use File Converter</strong></p>
