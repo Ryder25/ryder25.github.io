@@ -12,4 +12,4 @@ sidebar:
 Latest Version: <strong>1.0.2016.0528</strong></p>
 <h3><a name="RoNBlenderAddon" href="https://ryder25.itch.io/ron-blender-addon" target="_blank">RoN Blender Addon</a></h3>
 <p>A Blender add-on to import and export BigHuge3D mesh, UVs, skeleton, and BigHugeAnimation files.<br />
-Latest Version: <strong>1.0.2016.0513</strong></p>
+Latest Version: <strong>2.0.0+20191128</strong></p>
